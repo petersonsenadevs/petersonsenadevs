@@ -1,69 +1,96 @@
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=600&lines=Hey!+I'm+Peterson+%F0%9F%91%8B;aka+Pupa+%F0%9F%94%A5;I+build+what+they+say+can't+be+built;Let's+go+%F0%9F%9A%80" alt="Typing SVG" />
 
-# Hi, I'm Peterson Andres Sena! (Pupa) <img src="https://cdn-icons-png.flaticon.com/512/9997/9997685.png" width="40" height="40" />
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=petersonsenadevs&label=visitors&color=FF6B35&style=for-the-badge" alt="petersonsenadevs" />
 
-Welcome to my GitHub profile! 🚀
+<br/><br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/peterson-sena)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:petersonsenasena24@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elpupas&label=Profile%20views&color=0e75b6&style=flat" alt="elpupas" /> </p>
+</div>
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peterson-sena) 
-[![Gmail](https://img.shields.io/badge/Gmail-100000?style=flat&logo=gmail&logoColor=FFFFFF&labelColor=FF0000&color=FF0000)](mailto:petersonsenasena24@gmail.com)
+---
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
+### About me
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-[![visual studio](https://img.shields.io/badge/Vscode-100000?style=for-the-badge&logo=visual%20studio&logoColor=FFFFFF&labelColor=213460&color=1E356C)](https://code.visualstudio.com/)
-[![GIT](https://img.shields.io/badge/GIT-100000?style=for-the-badge&logo=GIT&logoColor=FFFFFF&labelColor=000000&color=000000)](https://git-scm.com/)
-[![IntelliJ](https://img.shields.io/badge/IntelliJ-100000?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF&labelColor=000000&color=000000)](https://www.jetbrains.com/idea/)
-[![XAMPP](https://img.shields.io/badge/Xampp-100000?style=for-the-badge&logo=XAMPP&logoColor=FFFFFF&labelColor=F1970F&color=F1970F)](https://www.apachefriends.org/es/index.html)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-[![phpmyadmin](https://img.shields.io/badge/PhpMyadmin-100000?style=for-the-badge&logo=phpmyadmin&logoColor=FFFFFF&labelColor=213460&color=1E356C)](https://www.phpmyadmin.net/)
-[![composer](https://img.shields.io/badge/composer-100000?style=for-the-badge&logo=composer&logoColor=FFFFFF&labelColor=000000&color=000000)](https://getcomposer.org/)
-[![Tailwind](https://img.shields.io/badge/tailwind_css-100000?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF&labelColor=1A81EA&color=1A81EA)](https://tailwindcss.com/)
-[![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+I'm **Peterson Andres Sena** — but everyone calls me **Pupa**.
 
+Dominican raised, Barcelona based. Developer, creator, the guy who hears *"that's not possible"* and is already halfway through building it.
 
-## :toolbox: Additional Tools and Technologies
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
-![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Json](https://img.shields.io/badge/JSON-100000?style=for-the-badge&logo=JSON&logoColor=FFFFFF&labelColor=1CC3A5&color=000000)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+I don't collect certifications — I collect shipped projects. I don't talk about what I *could* do — I push it to main and let the repo speak.
 
+I got into tech because I wanted to **build things that didn't exist yet**. Games nobody made. Tools nobody thought of. Solutions that start with *"what if..."* and end with a deploy.
 
-# :globe_with_meridians: Languages and Linguistic Skills
-[![Native Spanish](https://img.shields.io/badge/Native_Spanish-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=1E90FF&color=1E90FF)](#)
-[![Intermediate English](https://img.shields.io/badge/Intermediate_English-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=32CD32&color=32CD32)](#)
-[![Intermediate Catalan](https://img.shields.io/badge/Intermediate_Catalan-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=FF69B4&color=FF69B4)](#)
+<br clear="right"/>
 
+---
 
+<div align="center">
 
+### What drives me
 
+</div>
 
+```
+if (someonesSays("that can't be done")) {
+    peterson.startBuilding();
+    // already 3 commits deep before they finish the sentence
+}
+```
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=petersonsenadevs&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
+- I move fast. I ship. I iterate. Perfection is for v2.
+- I learn whatever I need — overnight if I have to.
+- I think big but I execute in small, relentless pushes.
+- I bring energy to every team, every standup, every PR review.
+- I don't just write code — I create experiences.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=petersonsenadevs&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+---
 
+<div align="center">
 
+### My GitHub in numbers
 
+<br/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=petersonsenadevs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=petersonsenadevs&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" width="48%" />
 
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersonsenadevs&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&layout=compact&langs_count=8" width="45%" />
+
+<br/><br/>
+
+![](https://github-profile-trophy.vercel.app/?username=petersonsenadevs&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+---
+
+<div align="center">
+
+### Languages I speak (not just programming)
+
+[![Spanish](https://img.shields.io/badge/Spanish-Native-%23FF6B35?style=for-the-badge)](#)
+[![English](https://img.shields.io/badge/English-Intermediate-%2300D4AA?style=for-the-badge)](#)
+[![Catalan](https://img.shields.io/badge/Catalan-Intermediate-%23845EC2?style=for-the-badge)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=2000&color=FF6B35&center=true&vCenter=true&random=false&width=500&lines=%22Don't+tell+me+it+can't+be+done.%22;%22Just+watch.%22" alt="Quote" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=100&section=footer" width="100%"/>
+
+</div>
