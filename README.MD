@@ -1,96 +1,75 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=600&lines=Hey!+I'm+Peterson+%F0%9F%91%8B;aka+Pupa+%F0%9F%94%A5;I+build+what+they+say+can't+be+built;Let's+go+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="./banner.png" width="100%" alt="r3v3rs3 — máscara entre sombras con ojos rojos" />
+
+# Peterson Andres Sena
+### aka r3v3rs3
+
+<img src="https://img.shields.io/badge/BACKEND%20%C2%B7%20AI%20AGENTS%20%C2%B7%20CLI%20TOOLS-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117" alt="Backend · AI Agents · CLI Tools" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=petersonsenadevs&label=visitors&color=FF6B35&style=for-the-badge" alt="petersonsenadevs" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=EF4444&center=true&vCenter=true&width=650&lines=Building+tools+for+Claude+Code%2C+Codex+%26+CLI+agents." alt="Building tools for Claude Code, Codex & CLI agents." />
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/peterson-sena)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:petersonsenasena24@gmail.com)
+<a href="https://linkedin.com/in/peterson-sena"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=EF4444" alt="LinkedIn" /></a>
+<a href="mailto:petersonsenasena24@gmail.com"><img src="https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=EF4444" alt="Gmail" /></a>
+<a href="https://github.com/petersonsenadevs?tab=followers"><img src="https://img.shields.io/github/followers/petersonsenadevs?style=for-the-badge&label=Followers&labelColor=161B22&color=DC2626" alt="GitHub followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=petersonsenadevs&label=VISITORS&color=dc2626&style=for-the-badge" alt="Profile views" />
+
+<br/><br/>
+
+Dominican roots. Barcelona based.  
+Backend developer building tools, plugins, and workflows for AI agents.
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+### Building
 
-### About me
+- **[Corvusmem](https://github.com/petersonsenadevs/corvusmem)** — Local memory for AI agents.
+- **Senzu** — My own developer tooling.
+- **Backend & integrations** — APIs, ecommerce systems, and automation.
 
-I'm **Peterson Andres Sena** — but everyone calls me **Pupa**.
+Exploring local LLMs, agent orchestration, and better terminal experiences.
 
-Dominican raised, Barcelona based. Developer, creator, the guy who hears *"that's not possible"* and is already halfway through building it.
-
-I don't collect certifications — I collect shipped projects. I don't talk about what I *could* do — I push it to main and let the repo speak.
-
-I got into tech because I wanted to **build things that didn't exist yet**. Games nobody made. Tools nobody thought of. Solutions that start with *"what if..."* and end with a deploy.
-
-<br clear="right"/>
-
----
+### Stack
 
 <div align="center">
 
-### What drives me
+![PHP](https://img.shields.io/badge/PHP-161B22?style=for-the-badge&logo=php&logoColor=F5DF00)
+![Laravel](https://img.shields.io/badge/Laravel-161B22?style=for-the-badge&logo=laravel&logoColor=EF4444)
+![Python](https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=F5DF00)
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=F5DF00)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=F5DF00)
+![Redis](https://img.shields.io/badge/Redis-161B22?style=for-the-badge&logo=redis&logoColor=EF4444)
+![Docker](https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=F5DF00)
+![n8n](https://img.shields.io/badge/n8n-161B22?style=for-the-badge&logo=n8n&logoColor=EF4444)
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-161B22?style=for-the-badge&logo=anthropic&logoColor=EF4444)
+![Codex](https://img.shields.io/badge/Codex-161B22?style=for-the-badge&logoColor=F5DF00)
+![LangGraph](https://img.shields.io/badge/LangGraph-161B22?style=for-the-badge&logo=langgraph&logoColor=F5DF00)
 
 </div>
 
-```
-if (someonesSays("that can't be done")) {
-    peterson.startBuilding();
-    // already 3 commits deep before they finish the sentence
-}
-```
-
-- I move fast. I ship. I iterate. Perfection is for v2.
-- I learn whatever I need — overnight if I have to.
-- I think big but I execute in small, relentless pushes.
-- I bring energy to every team, every standup, every PR review.
-- I don't just write code — I create experiences.
-
 ---
+
+### Commits & activity
 
 <div align="center">
 
-### My GitHub in numbers
+<img src="https://github-readme-stats.vercel.app/api?username=petersonsenadevs&show_icons=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=EF4444&icon_color=F5DF00&text_color=C9D1D9&custom_title=GitHub%20Stats" width="48%" alt="GitHub commits, stars and pull requests" />
+<img src="https://streak-stats.demolab.com?user=petersonsenadevs&hide_border=true&background=0D1117&ring=EF4444&fire=F5DF00&currStreakNum=EF4444&sideNums=C9D1D9&currStreakLabel=EF4444&sideLabels=C9D1D9&dates=8B949E&stroke=161B22" width="48%" alt="Contribution streaks" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=petersonsenadevs&bg_color=0D1117&color=8B949E&line=EF4444&point=F5DF00&area=true&area_color=EF4444&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="Contribution activity" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=petersonsenadevs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=petersonsenadevs&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersonsenadevs&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&layout=compact&langs_count=8" width="45%" />
-
-<br/><br/>
-
-![](https://github-profile-trophy.vercel.app/?username=petersonsenadevs&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
-<div align="center">
-
-### Languages I speak (not just programming)
-
-[![Spanish](https://img.shields.io/badge/Spanish-Native-%23FF6B35?style=for-the-badge)](#)
-[![English](https://img.shields.io/badge/English-Intermediate-%2300D4AA?style=for-the-badge)](#)
-[![Catalan](https://img.shields.io/badge/Catalan-Intermediate-%23845EC2?style=for-the-badge)](#)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=2000&color=FF6B35&center=true&vCenter=true&random=false&width=500&lines=%22Don't+tell+me+it+can't+be+done.%22;%22Just+watch.%22" alt="Quote" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=100&section=footer" width="100%"/>
+<sub>Built in the terminal. Shipped to the world.</sub>
 
 </div>
