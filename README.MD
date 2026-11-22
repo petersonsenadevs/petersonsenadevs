@@ -20,6 +20,8 @@
 
 <br/><br/>
 
+<a href="https://petersonsenadevs.github.io/r3v3rs3-game/#play"><img src="https://raw.githubusercontent.com/petersonsenadevs/r3v3rs3-game/main/assets/game-preview.svg" width="100%" alt="Jugar a r3v3rs3 RUN — pulsa la portada para entrar" /></a>
+
 Dominican roots. Barcelona based.  
 Backend developer building tools, plugins, and workflows for AI agents.
 
